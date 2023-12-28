@@ -7,7 +7,7 @@ const swaggerUi = require('swagger-ui-express');
 const path = require('path');
 
 const githubRepoLink = 'https://github.com/Andrea-Laurino/proyecto_final_backend_55535.git';
-const appDeployLink = '';
+const appDeployLink = 'https://proyectofinalbackend55535-production.up.railway.app/';
 
 const options = {
     swaggerDefinition: {
