@@ -38,7 +38,7 @@
 >
 > - `src/errors.log`: Registro de errores.
 
-> [!IMPORTANT]:
+> [!IMPORTANT]
 >
 > ## Variables de entorno
 >
@@ -121,7 +121,7 @@
 > npm run dev
 > ```
 
-> [!NOTE]:
+> [!NOTE]
 >
 > ## Credenciales
 >
