@@ -38,9 +38,9 @@
 >
 > - `src/errors.log`: Registro de errores.
 
-> [!IMPORTANT]
+> [!IMPORTANT]:
 >
-> ## Variables de entorno <a name="env"></a>
+> ## Variables de entorno
 >
 > | Variable               | Descripción                                                   |
 > | ---------------------- | ------------------------------------------------------------- |
@@ -84,13 +84,7 @@
 > - Clona este repositorio en tu máquina local:
 >
 > ```bash
-> git clone https://github.com/Andrea-Laurino/PROYECTO-FINAL.git
-> ```
->
-> - Navega al directorio del proyecto:
->
-> ```bash
-> cd proyecto-final-backend
+> git clone https://github.com/Andrea-Laurino/proyecto_final_backend_55535.git
 > ```
 >
 > - Instala las dependencias del proyecto ejecutando el siguiente comando:
@@ -99,7 +93,7 @@
 > npm install
 > ```
 >
-> - Configura la conexión a la base de datos MongoDB y todas las variables de entorno. (Ver [Variables de entorno](#env))
+> - Configura la conexión a la base de datos MongoDB y todas las variables de entorno.
 >
 > - Asegúrate de tener MongoDB en ejecución , la URL de conexión correcta y todas las variables de entorno configuradas.
 >
@@ -114,10 +108,10 @@
 > - Accede a la aplicación en tu navegador web ingresando la siguiente URL:
 >
 > ```
-> http://localhost:<PUERTO_DE_LA_APP>
+> http://localhost:<PUERTO>
 > ```
 >
-> Asegúrate de reemplazar `<PUERTO_DE_LA_APP>` con el número de puerto especificado en el archivo `.env`.
+> Asegúrate de reemplazar `<PUERTO>` con el número de puerto especificado en el archivo `.env`.
 >
 > - Ahora podrás utilizar la vista de Login en la aplicación.
 >
@@ -127,7 +121,7 @@
 > npm run dev
 > ```
 
-> [!IMPORTANT]
+> [!NOTE]:
 >
 > ## Credenciales
 >
